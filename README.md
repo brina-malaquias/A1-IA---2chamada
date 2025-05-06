@@ -48,31 +48,44 @@ Cada gráfico abaixo mostra a evolução do **MSE por época** para o experiment
 > 
 ![Exp1](![Teste 1](https://github.com/user-attachments/assets/3c21082c-068e-4e66-9cc9-3a5f0b745840))
 
+![Exp1](![Teste 1](https://github.com/user-attachments/assets/aeac40b8-6cec-4537-b47a-aa5c2e4dce06))
+
 ### Experimento 2  
 > `H=4, LR=0.3, Ép=5 000`
 > 
 ![Exp2](![Teste 2](https://github.com/user-attachments/assets/d8d60a8b-8a85-47f1-80b3-0e3f3cf57ccd))
+
+![Exp2](![Teste 2](https://github.com/user-attachments/assets/d775e76a-57a6-4e6f-9ccd-dd1deeffa2cf))
 
 ### Experimento 3  
 > `H=6, LR=0.3, Ép=5 000`
 > 
 ![Exp3](![Teste 3](https://github.com/user-attachments/assets/fb16dd54-cdf1-4439-a884-2ca8a44100fe))
 
+![Exp3](![Teste 3](https://github.com/user-attachments/assets/145ba71e-5586-426a-921b-8db846f56490))
+
+
 ### Experimento 4  
 > `H=4, LR=0.5, Ép=5 000`
 > 
 ![Exp4](![Teste 4](https://github.com/user-attachments/assets/201d099e-942c-4408-997c-8c4432e67832))
 
+![Exp4](![Teste 4](https://github.com/user-attachments/assets/130fe391-d281-4a0d-9820-222a1c182b45))
 
 ### Experimento 5  
 > `H=4, LR=0.1, Ép=10 000`
 > 
 ![Exp5](![Teste 5](https://github.com/user-attachments/assets/12ea6a13-5d0a-46d9-8b07-5ffa6c5411ce))
 
+![Exp5](![Teste 5](https://github.com/user-attachments/assets/5ef9cb8e-7a3e-42d6-99ef-b54386f07524))
+
+
 ### Experimento 6  
 > `H=3, LR=0.2, Ép=3 000`
 >  
 ![Exp6](![Teste 6](https://github.com/user-attachments/assets/b8709f3e-2fe8-4c54-bd10-6b7db388c07f))
+
+![Exp6](![Teste 6](https://github.com/user-attachments/assets/4361efd9-b5ac-4b60-8a13-aba24003368f))
 
 ---
 
